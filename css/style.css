@@ -697,7 +697,7 @@ body:after {
     max-width: 950px; }
     @media (max-width: 991.98px) {
       .site-blocks-cover .img-face {
-        right: -125%; 
+        right: -100%; 
         opacity: 0.6;} }
 
 .section-title {
